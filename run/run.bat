@@ -1,0 +1,1 @@
+java -jar ten-pin-bowling-1.0-SNAPSHOT-spring-boot.jar
