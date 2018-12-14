@@ -65,5 +65,5 @@ running it with command [java -jar <JarName>].
 
 To save the hassles mentioned above, I have already created the runnable jar and added a batch file to run it
 in the run folder. Just simply copy both the ten-pin-bowling-1.0-SNAPSHOT-spring-boot.jar and run.bat file into 
-any single folder and double click on run.bat. You will see the Swing UI Pop-up. Just simple input the Roll 
+any single folder and double click on run.bat. You will see the Swing UI Pop-up. Just simply input the Roll 
 String and then click on Calculate Button to display the output. 
