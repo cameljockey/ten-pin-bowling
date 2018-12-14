@@ -53,7 +53,8 @@ MultiPlayerGame implementing Game interface and supply it in BowlingContext Obje
 to create a funky game with >10 Rounds Or >2 Roll per Round Or some different kind of Roll. We can add it without 
 disturbing the application too much.
 During coding, first the whole Application Design Skeleton was created and then TDD was followed to create the 
-Application by first creating the Unit Tests and then did the coding in the classes.
+Application by first creating the Unit Tests and then did the coding in the classes. The Unit Tests are
+available in src/test folder
 To help the User a Swing UI has been provided to recieve input and display output Score and Messages.
 ```
 ## Running the Application
