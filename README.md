@@ -60,8 +60,8 @@ To help the User a Swing UI has been provided to recieve input and display outpu
 ## Running the Application
 
 ```
-You can run the Application by creating a runnable jar from project code and then running it with 
-java -jar <JarName> command.
+You can run the Application by creating a runnable jar from project code with command [mvn clean package] and then 
+running it with command [java -jar <JarName>].
 
 To save the hassles mentioned above, I have already created the runnable jar and added a batch file to run it
 in the run folder. Just simply copy both the ten-pin-bowling-1.0-SNAPSHOT-spring-boot.jar and run.bat file into 
